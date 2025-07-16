@@ -1,0 +1,387 @@
+@font-face {
+    font-family: 'ABC Marfa';
+    src: url('Fonts/ABCMarfa-MediumItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfa-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa';
+    src: url('Fonts/ABCMarfa-BoldItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfa-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa';
+    src: url('Fonts/ABCMarfa-BlackItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfa-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa';
+    src: url('Fonts/ABCMarfa-Black.woff2') format('woff2'),
+        url('Fonts/ABCMarfa-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa';
+    src: url('Fonts/ABCMarfa-Light.woff2') format('woff2'),
+        url('Fonts/ABCMarfa-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa';
+    src: url('Fonts/ABCMarfa-Medium.woff2') format('woff2'),
+        url('Fonts/ABCMarfa-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa';
+    src: url('Fonts/ABCMarfa-LightItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfa-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa';
+    src: url('Fonts/ABCMarfa-Bold.woff2') format('woff2'),
+        url('Fonts/ABCMarfa-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Mono';
+    src: url('Fonts/ABCMarfaMono-BlackItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfaMono-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Mono';
+    src: url('Fonts/ABCMarfaMono-Black.woff2') format('woff2'),
+        url('Fonts/ABCMarfaMono-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Mono';
+    src: url('Fonts/ABCMarfaMono-Bold.woff2') format('woff2'),
+        url('Fonts/ABCMarfaMono-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Mono';
+    src: url('Fonts/ABCMarfaMono-Medium.woff2') format('woff2'),
+        url('Fonts/ABCMarfaMono-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Mono';
+    src: url('Fonts/ABCMarfaMono-MediumItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfaMono-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Mono';
+    src: url('Fonts/ABCMarfaMono-BoldItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfaMono-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Mono';
+    src: url('Fonts/ABCMarfaMono-Light.woff2') format('woff2'),
+        url('Fonts/ABCMarfaMono-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Mono';
+    src: url('Fonts/ABCMarfaMono-LightItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfaMono-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Mono';
+    src: url('Fonts/ABCMarfaMono-Regular.woff2') format('woff2'),
+        url('Fonts/ABCMarfaMono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Mono';
+    src: url('Fonts/ABCMarfaMono-SemiboldItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfaMono-SemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Mono';
+    src: url('Fonts/ABCMarfaMono-ThinItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfaMono-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa';
+    src: url('Fonts/ABCMarfa-RegularItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfa-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Mono';
+    src: url('Fonts/ABCMarfaMono-Semibold.woff2') format('woff2'),
+        url('Fonts/ABCMarfaMono-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa';
+    src: url('Fonts/ABCMarfa-Regular.woff2') format('woff2'),
+        url('Fonts/ABCMarfa-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Mono';
+    src: url('Fonts/ABCMarfaMono-RegularItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfaMono-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Mono';
+    src: url('Fonts/ABCMarfaMono-Thin.woff2') format('woff2'),
+        url('Fonts/ABCMarfaMono-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa';
+    src: url('Fonts/ABCMarfa-Semibold.woff2') format('woff2'),
+        url('Fonts/ABCMarfa-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Semi-Mono';
+    src: url('Fonts/ABCMarfaSemi-Mono-BoldItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfaSemi-Mono-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Semi-Mono';
+    src: url('Fonts/ABCMarfaSemi-Mono-BlackItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfaSemi-Mono-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa';
+    src: url('Fonts/ABCMarfa-SemiboldItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfa-SemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Semi-Mono';
+    src: url('Fonts/ABCMarfaSemi-Mono-Bold.woff2') format('woff2'),
+        url('Fonts/ABCMarfaSemi-Mono-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Semi-Mono';
+    src: url('Fonts/ABCMarfaSemi-Mono-Black.woff2') format('woff2'),
+        url('Fonts/ABCMarfaSemi-Mono-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Semi-Mono';
+    src: url('Fonts/ABCMarfaSemi-Mono-Medium.woff2') format('woff2'),
+        url('Fonts/ABCMarfaSemi-Mono-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Semi-Mono';
+    src: url('Fonts/ABCMarfaSemi-Mono-Regular.woff2') format('woff2'),
+        url('Fonts/ABCMarfaSemi-Mono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Semi-Mono';
+    src: url('Fonts/ABCMarfaSemi-Mono-LightItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfaSemi-Mono-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Semi-Mono';
+    src: url('Fonts/ABCMarfaSemi-Mono-Light.woff2') format('woff2'),
+        url('Fonts/ABCMarfaSemi-Mono-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Semi-Mono';
+    src: url('Fonts/ABCMarfaSemi-Mono-MediumItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfaSemi-Mono-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa';
+    src: url('Fonts/ABCMarfa-ThinItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfa-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Semi-Mono';
+    src: url('Fonts/ABCMarfaSemi-Mono-Semibold.woff2') format('woff2'),
+        url('Fonts/ABCMarfaSemi-Mono-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Semi-Mono';
+    src: url('Fonts/ABCMarfaSemi-Mono-ThinItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfaSemi-Mono-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa';
+    src: url('Fonts/ABCMarfa-Thin.woff2') format('woff2'),
+        url('Fonts/ABCMarfa-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Semi-Mono';
+    src: url('Fonts/ABCMarfaSemi-Mono-Thin.woff2') format('woff2'),
+        url('Fonts/ABCMarfaSemi-Mono-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Semi-Mono';
+    src: url('Fonts/ABCMarfaSemi-Mono-SemiboldItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfaSemi-Mono-SemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Semi-Mono';
+    src: url('Fonts/ABCMarfaSemi-Mono-RegularItalic.woff2') format('woff2'),
+        url('Fonts/ABCMarfaSemi-Mono-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Marfa Variable';
+    src: url('Fonts/ABCMarfaVariable-Regular.woff2') format('woff2'),
+        url('Fonts/ABCMarfaVariable-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
